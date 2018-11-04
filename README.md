@@ -14,3 +14,9 @@ Viral kinfolk vaporware lorem sustainable trust fund culpa selfies sed try-hard 
 In banjo whatever shaman kombucha 90's food truck meditation qui tote bag twee. Hexagon retro palo santo master cleanse affogato cupidatat ethical brunch raclette normcore ex. XOXO veniam quis esse jianbing. Seitan velit proident fugiat, gluten-free ugh 90's flexitarian affogato sint vegan. Shabby chic pour-over lyft mlkshk cornhole. Hammock dolor velit tousled letterpress elit enim kitsch vape ex.
 
 
+This is a bunch of extra ipsum.  
+21
+down vote
+favorite
+8
+Simple inquiry: I have just realized that I have never seen a shebang on top of a .bashrc script, which leads me to think the system uses the default shell to source it upon login (${SHELL}). I am pondering over reasons why that is the case, i.e. is it considered a bad habit to use something other than the default shell to run the login script.
